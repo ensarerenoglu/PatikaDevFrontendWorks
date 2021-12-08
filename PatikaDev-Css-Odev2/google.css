@@ -1,0 +1,63 @@
+.center{
+    background-image: url("img/google.jpg");
+    background-color: white;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: relative;
+        
+}
+.search-area{
+    align-items: flex-start;
+    text-align: center;
+    background-color: #EEEEEE;
+    margin-top: 1%;
+}
+.txtSearch{
+    margin-bottom: 1%;
+}
+.link-area{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 95px;
+    align-items: flex-start;
+    margin-top: 1%;
+}
+.left-div{
+    width: 32%;
+    background-color: #7EE5DA;
+    text-align: center;
+    padding: 1%;
+    float: left;
+    margin-right: 1%;
+    height: 95px;
+    align-items: flex-start;
+}
+.center-div{
+    width: 25%;
+    background-color: #70CCC2;
+    text-align: center;
+    padding: 1%;
+    float: left;
+    margin-right: 1%;
+    height: 95px;
+    align-items: flex-start;
+}
+.div-right{
+    width: 34%;
+    padding: 1%;
+    text-align: center;
+    background-color: #62B3AA;
+    float: left;
+    height: 95px;
+    align-items: flex-start;
+}
+.footer{
+    
+    align-items: flex-start;
+    text-align: center;
+    padding: 2%;
+}
+

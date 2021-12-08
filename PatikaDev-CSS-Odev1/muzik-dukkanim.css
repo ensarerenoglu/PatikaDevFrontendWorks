@@ -1,0 +1,26 @@
+.menu-button:link, .menu-button:visited{
+    background-color:#5b828e;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.menu-button:hover, .menu-button:active{
+    background-color: #bbcfd7 ;
+}
+.inside-list{
+    list-style-position: inside;
+}
+
+.main-header{
+    color:#ac7e62;
+}
+.list-header{
+    color:#ba9a88;
+}
+img{
+    width: 200px;
+    height: 300px;
+}
